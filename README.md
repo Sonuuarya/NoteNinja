@@ -41,6 +41,8 @@ A powerful group managing bot
 `sudo pip3 install -U pip`
 - Clone the repository by :
 `git clone https://github.com/Sonuuarya/NoteNinja && cd NoteNinja`
+- Install/Upgrade setuptools by : 
+`pip3 install --upgrade pip setuptools`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
