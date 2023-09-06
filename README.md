@@ -46,15 +46,13 @@ A powerful group managing bot
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
-  `nano sample.env`<br>
-- and then paste your variables in the env file
-when you're done with pasting your vars in the env then 
+  `nano NoteNinja/config.py`<br>
+- and then paste your variables in the config file
+when you're done with pasting your vars in the config then 
 Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the terminal  
-- Rename the env file by :
- `mv sample.env .env`
 - now `screen -S Ultroid`
 - Finally run the bot by :
-`bash start`
+  python3 -m NoteNinja`
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
