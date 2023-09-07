@@ -12,7 +12,7 @@ class Config(object):
     EVENT_LOGS = ()  
     MONGO_DB_URI= "mongodb+srv://USER_ID:PASSWORD@user.m23k7t3.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
-    DATABASE_URL = ""  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://sjjrieqz:5z19jX5hQE45xaN7aViiRnQ0xFVEyMZf@berry.db.elephantsql.com/sjjrieqz"  # A sql database url from elephantsql.com
     CASH_API_KEY = (
         "GVUHVUJYKI8C693V"  # Get your API key from https://www.alphavantage.co/support/#api-key
     )
