@@ -30,7 +30,7 @@ A powerful group managing bot
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Sonuuarya/NoteNinja/NoteNinja/config.py)
+- Get your [Necessary Variables](https://github.com/Sonuuarya/NoteNinja/blob/main/NoteNinja/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
