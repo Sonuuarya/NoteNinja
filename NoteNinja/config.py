@@ -8,7 +8,7 @@ class Config(object):
     OWNER_ID = 5003680905
     
     SUPPORT_CHAT = "NoteNinjaSupport" 
-    START_IMG = ""
+    START_IMG = "https://graph.org/file/aba5d5d746926a493bd26.jpg"
     EVENT_LOGS = ()  
     MONGO_DB_URI= "mongodb+srv://USER_ID:PASSWORD@user.m23k7t3.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
