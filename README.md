@@ -50,7 +50,7 @@ A powerful group managing bot
 - and then paste your variables in the config file
 when you're done with pasting your vars in the config then 
 Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the terminal  
-- now `screen -S Ultroid`
+- now `screen -S NoteNinja`
 - Finally run the bot by :
   `python3 -m NoteNinja`
 ━━━━━━━━━━━━━━━━━━━━
