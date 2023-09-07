@@ -53,6 +53,7 @@ Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the termin
 - now `screen -S NoteNinja`
 - Finally run the bot by :
   `python3 -m NoteNinja`
+  
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
