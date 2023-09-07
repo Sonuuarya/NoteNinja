@@ -9,14 +9,13 @@ class Config(object):
     TOKEN = "6309557731:AAFPD-48uzhXRqUFZYDku3FrxTg7RB55q90"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5003680905 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
-    SUPPORT_CHAT = "the_support_chat"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "NoteNinjaSupport"  # Your own group for support, do not add the @
     START_IMG = ""
     EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "mongodb+srv://USER_ID:PASSWORD@user.m23k7t3.mongodb.net/?retryWrites=true&w=majority"
-    # RECOMMENDED
-    DATABASE_URL = ""  # A sql database url from elephantsql.com
+   
     CASH_API_KEY = (
-        ""  # Get your API key from https://www.alphavantage.co/support/#api-key
+        "GVUHVUJYKI8C693V"  # Get your API key from https://www.alphavantage.co/support/#api-key
     )
     TIME_API_KEY = ""
     # Get your API key from https://timezonedb.com/api
