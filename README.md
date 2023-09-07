@@ -52,7 +52,7 @@ when you're done with pasting your vars in the config then
 Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the terminal  
 - now `screen -S Ultroid`
 - Finally run the bot by :
-  python3 -m NoteNinja`
+  `python3 -m NoteNinja`
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
